@@ -1,0 +1,169 @@
+{
+  "settings": {
+    "name": "Prabhath",
+    "title": "AI & Backend Enthusiast",
+    "location": "India,Hyderabad",
+    "summary": "Student exploring machine learning, backend development, and core CS fundamentals. Learning to build simple ML models and backend services step by step. Interested in agentic AI and practical problem-solving",
+    "profileImage": "https://files.catbox.moe/ojot05.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:vankaprabhath2gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1ewHLui-xYUoZAq6egYbDHydV8-36UMpF/view?usp=sharing"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Python",
+          "JavaScript",
+          "React",
+          "TailwindCSS",
+          "Firebase",
+          "SQL",
+          "Node.js",
+          "Linux",
+          "Git",
+          "NumPy",
+          "Pandas",
+          "C++",
+          "Bash"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Self-Directed Project",
+          "position": "Data Analyst (Independent)",
+          "period": "May 2024 - July 2024",
+          "description": "Built Excel-based stock analysis sheets for portfolio tracking, P&L monitoring, and trade review workflows. Automated repetitive calculations using formulas, pivot tables, and conditional logic, reducing manual effort. Created visual dashboards for trend analysis and decision support using charts and derived metrics. Organized and cleaned historical trade data to streamline review and performance evaluation."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Campus Hive",
+          "description": "Engineered a full-scale community platform for the entire college ecosystem. Designed a responsive, component-driven frontend architecture with React, integrating TailwindCSS. Implemented Firebase as the backend-as-a-service and built an Admin Dashboard. Developed custom micro-animations and deployed on Vercel.",
+          "tags": [
+            "React",
+            "TailwindCSS",
+            "Firebase",
+            "Vercel"
+          ],
+          "previewUrl": "https://campus-hive-demo.example.com",
+          "repoUrl": "https://github.com/VankaPrabhath/CampusHive"
+        },
+        {
+          "title": "CivicPulse",
+          "description": "Designed an AI-assisted urban monitoring prototype inspired by multi-brain decision systems. Developed structured LLM pipelines using Gemini to classify mock social media and news inputs. Built analytics dashboards and decision-flow mockups. Implemented a three-brain evaluation mechanism and presented the working concept during a college INAE conclave.",
+          "tags": [
+            "Gemini LLM",
+            "Prompt Engineering",
+            "System Design"
+          ],
+          "previewUrl": "https://civicpulse-demo.example.com",
+          "repoUrl": "https://github.com/VankaPrabhath/CivicPulse"
+        },
+        {
+          "title": "Personal Blog",
+          "description": "Developed a performance-oriented static blog using the Zola static site generator, leveraging Markdown and custom templates. Created a clean typographic layout with metadata, tagging, and section-based navigation. Configured build pipelines and optimized assets for near-instant rendering. Used the platform to publish analytical essays and explorations of AI history, system design, and ML-related concepts.",
+          "tags": [
+            "Zola",
+            "Markdown",
+            "Static Site"
+          ],
+          "previewUrl": "https://personal-blog.example.com",
+          "repoUrl": "https://github.com/VankaPrabhath/PersonalBlog"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Anurag University",
+          "degree": "Bachelor of Technology in Artificial intelligence and machine learning",
+          "period": "2024 - 2028"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": false,
+      "title": "Achievements & Certifications",
+      "items": []
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "vankaprabhath@gmail.com",
+      "phone": "+91 8309070289",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://linkedin.com/in/VankaPrabhath",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/dawnbreaker88",
+          "icon": "github"
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "items": [
+        {
+          "name": "Home",
+          "url": "/"
+        },
+        {
+          "name": "About",
+          "url": "#about"
+        },
+        {
+          "name": "Projects",
+          "url": "#projects"
+        },
+        {
+          "name": "Experience",
+          "url": "#experience"
+        },
+        {
+          "name": "Education",
+          "url": "#education"
+        },
+        {
+          "name": "Contact",
+          "url": "#contact"
+        }
+      ]
+    },
+    "footer": {
+      "enabled": true,
+      "copyright": "© 2025 Vanka Prabhath. All rights reserved."
+    }
+  }
+}
